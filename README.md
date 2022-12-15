@@ -14,3 +14,5 @@ Pasos para crear un dashboard en Streamlit
 - Crea el archivo `app.py` donde se alojará el código del dashboard
 - Ejectua el dashboard: `streamlit run app.py`
 - Cuando este completo desde la webapp realiza el deploy utilizando tu cuenta de GitHub
+
+Link al dashboard: [Dashboard](https://dsandovalflavio-cf-dashboarding-streamlit-app-g7bhcg.streamlit.app)
